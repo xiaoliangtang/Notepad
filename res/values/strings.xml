@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">便签</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="time">3</string>
+    <string name="title_activity_list">便签</string>
+    <string name="title_activity_addnote">添加便签</string>
+    <string name="exit"></string>
+    <string name="addnote"></string>
+    <string name="blank"></string>
+    <string name="title_activity_detail">便签信息</string>
+
+</resources>
